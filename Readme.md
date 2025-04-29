@@ -1,7 +1,7 @@
 # Low Light Image Enhancement
 
 ## Introduction
-Processing images in low-light conditions is a challenging problem in computer vision, affecting applications such as surveillance, autonomous driving, and medical imaging. This project employs deep learning-based methods to enhance low-light images and improve object detection accuracy using pre-trained models.
+Processing images in low-light conditions is a challenging problem in computer vision, affecting applications such as surveillance, autonomous driving, and medical imaging. This project employs deep learning-based methods to enhance low-light images and improve object detection accuracy.
 
 ## Methodology
 ### Image Enhancement
