@@ -57,4 +57,4 @@ Folder/
 - Explore more computationally efficient models for real-time processing.
    
 ## Acknowledgments
-This project is an implementation of [kinD](https://arxiv.org/abs/1905.04161), a low-light image enhancement technique.
+This project is a PyTorch implementation of [kinD](https://arxiv.org/abs/1905.04161), a low-light image enhancement technique.
